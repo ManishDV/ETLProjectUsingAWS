@@ -1,0 +1,62 @@
+2022-05-29 10:47:04,702 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:47:04,702 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:47:50,173 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:47:50,173 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:48:09,440 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:48:09,441 - root - INFO - dataframe_util : 11 - Creating df for data in bucket s3a://manishpractice/demo/*
+2022-05-29 10:51:14,835 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:51:14,835 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:51:29,270 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:51:29,271 - root - INFO - dataframe_util : 11 - Creating df for data from file location ./data/
+2022-05-29 10:51:51,067 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:51:51,067 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:52:05,363 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:52:05,364 - root - INFO - dataframe_util : 11 - Creating df for data from file location file:///./data/
+2022-05-29 10:52:26,778 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:52:26,778 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:52:42,200 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:52:42,201 - root - INFO - dataframe_util : 11 - Creating df for data from file location file:///data/
+2022-05-29 10:52:59,843 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:52:59,843 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:53:18,226 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:54:20,000 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 10:54:20,000 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 10:54:37,877 - root - INFO - app : 22 - data uploaded to s3
+2022-05-29 10:54:37,878 - root - INFO - dataframe_util : 11 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:00:37,645 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:00:37,645 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:00:56,653 - root - INFO - dataframe_util : 11 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:01:14,675 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:01:14,675 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:01:32,415 - root - INFO - dataframe_util : 11 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:11:19,185 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:11:19,185 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:11:38,369 - root - INFO - dataframe_util : 12 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:11:46,172 - root - INFO - dataframe_util : 16 - Processing data
+2022-05-29 11:11:46,710 - root - INFO - dataframe_util : 27 - Saving output df to path /home/neo/PycharmProjects
+2022-05-29 11:12:13,483 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:12:13,483 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:12:28,778 - root - INFO - dataframe_util : 12 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:12:36,091 - root - INFO - dataframe_util : 16 - Processing data
+2022-05-29 11:12:36,588 - root - INFO - dataframe_util : 27 - Saving output df to path /home/neo/PycharmProjects/ETLProjectUsingAWS
+2022-05-29 11:14:00,007 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:14:00,007 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:14:20,018 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:14:20,018 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:14:34,033 - root - INFO - dataframe_util : 12 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/
+2022-05-29 11:14:41,333 - root - INFO - dataframe_util : 16 - Processing data
+2022-05-29 11:16:35,068 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:16:35,068 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:16:49,042 - root - INFO - dataframe_util : 12 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/input_data/
+2022-05-29 11:16:56,276 - root - INFO - dataframe_util : 16 - Processing data
+2022-05-29 11:16:56,777 - root - INFO - dataframe_util : 25 - Saving output df to location : /home/neo/PycharmProjects/ETLProjectUsingAWS/data/output
+2022-05-29 11:20:38,596 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:20:38,596 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:20:55,380 - root - INFO - dataframe_util : 12 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/input_data/
+2022-05-29 11:21:02,795 - root - INFO - dataframe_util : 16 - Processing data
+2022-05-29 11:21:03,300 - root - INFO - dataframe_util : 24 - Saving output df to location : hdfs:///data/output
+2022-05-29 11:22:31,215 - root - INFO - spark_utils : 14 - Running Spark Application On DEV
+2022-05-29 11:22:31,215 - root - INFO - spark_utils : 18 - Running Spark Application Using 'local[3]' as master
+2022-05-29 11:22:50,434 - root - INFO - dataframe_util : 13 - Creating df for data from file location file:////home/neo/PycharmProjects/ETLProjectUsingAWS/data/input_data/
+2022-05-29 11:22:57,852 - root - INFO - dataframe_util : 17 - Processing data
+2022-05-29 11:22:58,347 - root - INFO - dataframe_util : 24 - Saving output df to location : hdfs:///data/output
